@@ -1,0 +1,7 @@
+{
+  "AppPackage": "by.st.drivepay",
+  "AppActivity": "by.st.dp.activities.authorization.AuthorizationActivity",
+  "ImplicitlyWait" : 5,
+  "PhoneNumber": "375298781529",
+  "Password": "spartak-11"
+}
